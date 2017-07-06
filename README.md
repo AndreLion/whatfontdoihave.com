@@ -17,7 +17,7 @@ For the convenience of web designers/developers, it provides a straight forward 
 
 For your convenience, please scan following QR code from your mobile device, or type the URL directly: [whatfontdoihave.com](http://whatfontdoihave.com).
 
-[QR code image goes here]
+![qrcode](https://user-images.githubusercontent.com/85134/27907833-ca3e9a40-627b-11e7-8ac5-1c3cd562982f.png)
 
 ---
 
