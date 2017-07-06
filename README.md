@@ -24,7 +24,7 @@ For your convenience, please scan following QR code from your mobile device, or 
 
 ## Default Web Font List
 
-There are about 60+ web fonts as default. You can view the full list here.
+There are about 60+ web fonts as default. You can view the [full list here](https://github.com/AndreLion/whatfontdoihave.com/blob/master/assets/fonts.js).
 
 ---
 
@@ -32,4 +32,4 @@ There are about 60+ web fonts as default. You can view the full list here.
 
 If you are looking for some specific font but it's not in the default font list. Please type the font name in search bar and press "Detect Font". Then you will get the result of whether it's supported in your browser.
 
-Or you can also contribute the new font name by creating a pull request for default font list. Once it's accepted, all users will start detecting this new font. 
+Or you can also contribute the new font name by creating a pull request for [default font list](https://github.com/AndreLion/whatfontdoihave.com/blob/master/assets/fonts.js). Once it's accepted, all users will start detecting this new font. 
