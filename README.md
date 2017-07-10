@@ -1,30 +1,32 @@
-# What Font Do I Have
+What Font Do I Have
+====
 
 [whatfontdoihave.com](http://whatfontdoihave.com)
 
----
 
-## Web Font Detector
+
+Web Font Detector
+====
 
 This is an intuitive web tool for detecting system built-in web fonts on desktop PC or mobile devices.
 
 For the convenience of web designers/developers, it provides a straight forward view of a most-common web fonts list and sample text for each supported font. You can also search for a particular font or edit the sample text for your preference. 
 
 
----
 
-## Access from Mobile Browser
+Access from Mobile Browser
+====
 
 For your convenience, please scan following QR code from your mobile device, or type the URL directly: [whatfontdoihave.com](http://whatfontdoihave.com).
 
 ![qrcode](https://user-images.githubusercontent.com/85134/27907833-ca3e9a40-627b-11e7-8ac5-1c3cd562982f.png)
 
----
 
 
-## Default Web Font List
+Default Web Font List
+====
 
-There are about 60+ web fonts as default. You can view the [full list here](https://github.com/AndreLion/whatfontdoihave.com/blob/master/assets/fonts.js).
+There are about 60+ web fonts as default. You can view the [full list here](https://github.com/AndreLion/whatfontdoihave.com/blob/master/fonts.js).
 
 ---
 
@@ -32,4 +34,19 @@ There are about 60+ web fonts as default. You can view the [full list here](http
 
 If you are looking for some specific font but it's not in the default font list. Please type the font name in search bar and press "Detect Font". Then you will get the result of whether it's supported in your browser.
 
-Or you can also contribute the new font name by creating a pull request for [default font list](https://github.com/AndreLion/whatfontdoihave.com/blob/master/assets/fonts.js). Once it's accepted, all users will start detecting this new font. 
+Or you can also contribute the new font name by creating a pull request for [default font list](https://github.com/AndreLion/whatfontdoihave.com/blob/master/fonts.js). Once it's accepted, all users will start detecting this new font. 
+
+
+
+Technical Specification
+====
+
+- [x] Universal Javascript web application 
+- [x] React & ES6
+- [x] Material Design for UI
+- [x] AppCache & Local Storage for offline usage 
+- [x] Webpack for wrapping up everything above
+- [x] Nginx for serving static assets and routing backend service
+- [x] Koa for backend service
+- [x] Mongo DB for data persistance
+- [x] Heroku pipeline for CI/CD and staging
