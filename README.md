@@ -49,4 +49,4 @@ Or you can also contribute the new font name by creating a pull request for [def
 - [x] Nginx for serving static assets and routing backend service
 - [x] Koa for backend service
 - [x] Mongo DB for data persistance
-- [x] Heroku pipeline for CI/CD and staging
+- [x] Heroku pipeline for CI/CD and staging / production environments
