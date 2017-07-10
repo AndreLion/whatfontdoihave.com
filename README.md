@@ -1,12 +1,12 @@
-What Font Do I Have
-====
+# What Font Do I Have
+
 
 [whatfontdoihave.com](http://whatfontdoihave.com)
 
 
 
-Web Font Detector
-====
+## Web Font Detector
+
 
 This is an intuitive web tool for detecting system built-in web fonts on desktop PC or mobile devices.
 
@@ -14,8 +14,8 @@ For the convenience of web designers/developers, it provides a straight forward 
 
 
 
-Access from Mobile Browser
-====
+## Access from Mobile Browser
+
 
 For your convenience, please scan following QR code from your mobile device, or type the URL directly: [whatfontdoihave.com](http://whatfontdoihave.com).
 
@@ -23,12 +23,12 @@ For your convenience, please scan following QR code from your mobile device, or 
 
 
 
-Default Web Font List
-====
+## Default Web Font List
+
 
 There are about 60+ web fonts as default. You can view the [full list here](https://github.com/AndreLion/whatfontdoihave.com/blob/master/fonts.js).
 
----
+
 
 ## Can't Find the Font You're Looking for?
 
@@ -38,8 +38,8 @@ Or you can also contribute the new font name by creating a pull request for [def
 
 
 
-Technical Specification
-====
+## Technical Specification
+
 
 - [x] Universal Javascript web application 
 - [x] React & ES6
